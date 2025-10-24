@@ -1,9 +1,10 @@
 {
-  "name": "chainup.net",
+  "id": 171,
+  "name": "",
   "secp": "027929d33a6e7bc170adc7b35740423399cb293e98b7ee26a7af714d1da205fa9e",
-  "bls": "8541b07d2be86ff7e43c6100835a988feaae259b31ff2b0cf95da18a2a707b0946cf94470f8c373863737da977a21cf6",
-  "website": "https://cloud.chainup.com",
-  "description": "ChainUp Cloud",
-  "logo": "https://cloud.chainup.com/images/logo_h5.svg",
-  "x": "https://x.com/chainupcloud"
+  "bls": "b63c7cd15f50f2644f7b04819c3600fe4b84137d5efd6ed84fe7067804d77a32b9e6fb06b106c9fb6e1255e7dbe1dc14",
+  "website": "",
+  "description": "",
+  "logo": "",
+  "x": ""
 }
